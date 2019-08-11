@@ -1,4 +1,4 @@
-# AR.js playground - bcdlvd
+# AR.js playground
 
 Trying out this new cool stuff 🤓
 
